@@ -15,6 +15,7 @@
             <div class="d-flex justify-content-evenly">
                 <x-nav-link href="/">Home</x-nav-link>
                 <x-nav-link href="/cadastro">Cadastrar pessoas</x-nav-link>
+                <x-nav-link href="/historico">Histórico</x-nav-link>
             </div>
         </div>
     </nav>

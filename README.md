@@ -57,5 +57,4 @@ Abra o navegador e acesse o endereço http://localhost:8000.
 - Implementar a funcionalidade de limpar a lista de participantes.
 - Melhorar a interface do usuário com mais recursos e estilos.
 - Adicionar a funcionalidade de enviar o resultado do sorteio por e-mail.
-- Criar grupos de pessoas por sorteio.
 - Criar histórico de sorteios realizados.
