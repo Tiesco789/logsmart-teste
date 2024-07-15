@@ -57,4 +57,5 @@ Abra o navegador e acesse o endereço http://localhost:8000.
 - Implementar a funcionalidade de limpar a lista de participantes.
 - Melhorar a interface do usuário com mais recursos e estilos.
 - Adicionar a funcionalidade de enviar o resultado do sorteio por e-mail.
+- Unificar tabelas para se ter uma correlação entre pessoas e sorteio em uma tabela de entidade fraca.
 - Criar histórico de sorteios realizados.
