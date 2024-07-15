@@ -53,9 +53,7 @@ class SorteioController
             }
 
             if ($pessoas->count() < 3) {
-                return redirect('/')->with('erro', 'É necessário ter pelo menos 3 participantes para realizar o sorteio.');
-            } else if ($pessoas->count() > 1) {
-                return redirect('/')->with('mensagem','abaaa');
+                return redirect('/')->with('erro', 'Erro ao realizar o sorteio');
             }
 
             // Se tudo deu certo, confirma a transação
