@@ -51,7 +51,7 @@ Abra o navegador e acesse o endereço http://localhost:8000.
 
 ### Observações:
 - É necessário ter o PHP, Composer e NPM instalados.
-- Crie um banco de dados MySQL e configure as informações de conexão no arquivo .env.
+- Crie um banco de dados MySQL e configure as informações de conexão no arquivo .env
 
 ### Melhorias Futuras:
 - Implementar a funcionalidade de limpar a lista de participantes.
