@@ -1,5 +1,5 @@
-# Desafio Amigo Secreto Log Smart
-Este é um desafio para a empresa LogSmart, que consiste em criar um sistema de sorteio de Amigo Secreto utilizando PHP, MySQL, HTML, CSS e JavaScript. O desafio segue o padrão MVC com o framework Laravel para facilitar o desenvolvimento.
+# Sistema de sorteio de amigo secreto
+Este é um desafio que consiste em criar um sistema de sorteio de Amigo Secreto utilizando PHP, MySQL, HTML, CSS e JavaScript. O desafio segue o padrão MVC com o framework Laravel para facilitar o desenvolvimento.
 
 ## Funcionalidades:
 - **Cadastro de Participantes:** Permite adicionar participantes com nome e e-mail, validando os dados para garantir a integridade das informações;
